@@ -1,0 +1,17 @@
+label	text
+fake	Aliens are living under the ocean
+fake	Coffee makes humans invisible
+fake	Government confirms moon is made of cheese
+fake	Scientists found a city inside the sun
+fake	Drinking water once a week is enough for humans
+fake	A man can fly without equipment
+fake	The earth will disappear tomorrow
+fake	Doctors say sleeping for one hour is enough
+real	Scientists published a new climate study
+real	University registration opened today
+real	The government announced new education rules
+real	Doctors recommend regular exercise for health
+real	Researchers developed a new medical treatment
+real	The university announced the exam schedule
+real	The weather department reported heavy rain
+real	Schools will open next week 
