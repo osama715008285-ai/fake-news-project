@@ -40,7 +40,7 @@ streamlit run app.py
 
 
 
-Name: Osamah Ahmed
+Name: Osamah AL-murisi
 
 Course: Machine Learning
 
